@@ -1,0 +1,115 @@
+#formatar
+*{
+ color:#66A;
+ font-style:italic;
+ font-size:50px;
+ text-align:center;
+ font-weight:bolder;
+ font-size:45px;
+}
+
+body{
+  background-color:#9c9999;
+}
+
+div{
+  border:1px solid #fff;
+}
+
+#geral{
+  width:960px;
+  height:1120px;
+  background:#5d5b5b;
+  margin: 0 auto;
+}
+
+#topo{
+  width:900px;
+  height:250px;
+  background-color:#b7b5b5;
+  margin-left:25px;
+  margin-top:10px;
+}
+.imagem{
+  float:left;
+  width:400px;
+  height:200px;
+  background-color:#5d5b5b;
+  margin-left:30px;
+  margin-top: 25px;
+}
+.menu{
+  float:left;
+  width:436px;
+  height:100px;
+  background-color:#b7b5b5;
+  margin-top: 20px;
+  margin-left:25px;
+
+}
+#laterald{
+  float:right;
+  width:260px;
+  height:600px;
+  background-color:#b7b5b5;
+  margin-top:20px;
+  margin-right:34px;
+}
+
+#laterale{
+  float:left;
+  width:260px;
+  height:600px;
+  background-color:#b7b5b5;
+  margin-top: 20px;
+  margin-left:25px;
+}
+.lateral{
+  float:left;
+  width:200px;
+  height:270px;
+  background-color:#5d5b5b;
+  margin-top: 20px;
+  margin-left:25px;
+}
+#conteudo{
+  float:right;
+  width:340px;
+  height:600px;
+  background-color:#b7b5b5;
+  margin-top: 20px;
+  margin-right:18px;
+}
+.noticia{
+  float:left;
+  width:140px;
+  height:200px;
+  background-color:#5d5b5b;
+  margin-top: 20px;
+  margin-left:20px;
+}
+
+#separa{
+  float:left;
+  width:302px;
+  height:70px;
+  background-color:#5d5b5b;
+  margin-top: 20px;
+  margin-left:20px;
+}
+.quadro{
+  float:left;
+  width:140px;
+  height:200px;
+  background-color:#5d5b5b;
+  margin-top: 20px;
+  margin-left:20px;
+}
+#rodape{
+  float:left;
+  width:900px;
+  height:70px;
+  background-color:#b7b5b5;
+  margin-top:20px;
+  margin-left:25px;
+}
